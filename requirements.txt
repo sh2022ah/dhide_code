@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+scikit-learn
+scikit-image
+opencv-python
+torch
+torchvision
+jpegio
+h5py
+PyWavelets
+matplotlib
