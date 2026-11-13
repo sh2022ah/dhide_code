@@ -1,4 +1,3 @@
-# Diagnostic model-sensitivity-aware cost function for JPEG steganography in medical images
 
 Code accompanying the paper *A Diagnostic Model-Sensitivity-Aware Cost Function for JPEG Steganography in Medical Images*.
 
